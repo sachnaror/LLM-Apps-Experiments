@@ -1,4 +1,4 @@
-## 📨 Chat with Gmail Inbox 
+## 📨 Chat with Gmail Inbox
 
 LLM app with RAG to chat with Gmail in just 30 lines of Python Code. The app uses Retrieval Augmented Generation (RAG) to provide accurate answers to questions based on the content of your Gmail Inbox.
 
@@ -13,7 +13,7 @@ LLM app with RAG to chat with Gmail in just 30 lines of Python Code. The app use
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/sachnaror/LLM-Apps-Experiments.git
 ```
 2. Install the required dependencies
 

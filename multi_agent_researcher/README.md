@@ -1,5 +1,5 @@
 ## 📰 Multi-Agent AI Researcher
-This Streamlit app empowers you to research top stories and users on HackerNews using a team of AI assistants with GPT-4o. 
+This Streamlit app empowers you to research top stories and users on HackerNews using a team of AI assistants with GPT-4o.
 
 ### Features
 - Research top stories and users on HackerNews
@@ -11,7 +11,7 @@ This Streamlit app empowers you to research top stories and users on HackerNews 
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/sachnaror/LLM-Apps-Experiments.git
 ```
 2. Install the required dependencies:
 

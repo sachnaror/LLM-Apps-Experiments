@@ -11,7 +11,7 @@ This Streamlit app allows you to scrape a website using OpenAI API and the scrap
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/sachnaror/LLM-Apps-Experiments.git
 ```
 2. Install the required dependencies:
 

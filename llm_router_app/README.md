@@ -1,4 +1,4 @@
-## 📡 RouteLLM Chat App 
+## 📡 RouteLLM Chat App
 
 > Note: This project is inspired by the opensource [RouteLLM library](https://github.com/lm-sys/RouteLLM/tree/main), which provides intelligent routing between different language models.
 
@@ -15,7 +15,7 @@ This Streamlit application demonstrates the use of RouteLLM, a system that intel
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/sachnaror/LLM-Apps-Experiments.git
 ```
 2. Install the required dependencies:
 

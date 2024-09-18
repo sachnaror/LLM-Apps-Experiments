@@ -1,4 +1,4 @@
-## 📄 Chat with PDF 
+## 📄 Chat with PDF
 
 LLM app with RAG to chat with PDF in just 30 lines of Python Code. The app uses Retrieval Augmented Generation (RAG) to provide accurate answers to questions based on the content of the uploaded PDF.
 
@@ -13,7 +13,7 @@ LLM app with RAG to chat with PDF in just 30 lines of Python Code. The app uses 
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/sachnaror/awesome-llm-apps.git
 ```
 2. Install the required dependencies
 
@@ -29,5 +29,5 @@ pip install -r requirements.txt
 streamlit run chat_pdf.py
 ```
 ### Interactive Application Demo
-https://github.com/Shubhamsaboo/awesome-llm-apps/assets/31396011/12bdfc11-c877-4fc7-9e70-63f21d2eb977
+https://github.com/Shubhamsaboo/LLM-Apps-Experiments/assets/31396011/12bdfc11-c877-4fc7-9e70-63f21d2eb977
 

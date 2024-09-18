@@ -1,4 +1,4 @@
-## ⚡️ Multimodal Chatbot with Gemini Flash 
+## ⚡️ Multimodal Chatbot with Gemini Flash
 This repository contains a Streamlit application that demonstrates a multimodal chatbot using Google's Gemini Flash model. The chatbot allows users to interact with the model using both image and text inputs, providing lightning-fast results.
 
 ## Features
@@ -11,7 +11,7 @@ This repository contains a Streamlit application that demonstrates a multimodal 
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/sachnaror/LLM-Apps-Experiments.git
 ```
 2. Install the required dependencies:
 

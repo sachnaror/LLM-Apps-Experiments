@@ -88,7 +88,7 @@ Chat with a Substack newsletter using OpenAI's API and the Embedchain library in
 1. Clone the repository
 
     ```bash
-    git clone https://github.com/sachnaror/LLM-Apps-Experiments
+    git clone https://github.com/sachnaror/LLM-Apps-Experiments.git
     ```
 
 2. Navigate to the desired project directory

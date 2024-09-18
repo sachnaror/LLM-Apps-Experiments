@@ -1,11 +1,11 @@
 
 
-# 🌟 LLM Apps Experiments
+# 🌟 My LLM Apps Experiments
 A curated collection of LLM Apps Experiments built with RAG and AI agents. This repository features LLM apps that use models from OpenAI, Anthropic, Google, and even open-source models like LLaMA that you can run locally on your computer.
 
 ## 📑 Table of Contents
 
-- [🌟 LLM Apps Experiments](#-llm-apps-experiments)
+- [🌟 My LLM Apps Experiments](#-my-llm-apps-experiments)
   - [📑 Table of Contents](#-table-of-contents)
   - [🤔 Why LLM-Apps-Experiments ?](#-why-llm-apps-experiments-)
   - [📂 Featured Projects](#-featured-projects)
